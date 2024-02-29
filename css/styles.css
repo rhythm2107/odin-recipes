@@ -1,4 +1,18 @@
 body {
     /* testing */
     color: firebrick;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: azure;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(228, 231, 28);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2,
+h3 {
+    color: rgba(95, 57, 167, 0.671);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }

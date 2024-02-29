@@ -3,6 +3,8 @@ body {
     color:darkslateblue;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: rgba(203, 255, 255, 0.582);
+    width: 600px;
+    margin: 100px auto;
 }
 
 h1 {

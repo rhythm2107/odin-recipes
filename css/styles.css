@@ -1,5 +1,5 @@
 body {
-    color:rgb(130, 61, 139);
+    color:rgba(10, 77, 72, 0.932);
     font-family: sans-serif;
     background-color: rgba(217, 235, 235, 0.582);
     width: 600px;
@@ -21,10 +21,10 @@ h1 {
 
 h2,
 h3 {
-    color: rgb(98, 20, 243);
+    color: rgba(52, 15, 121, 0.979);
     font-family: sans-serif;
     padding-left: 10px;
-    margin-top: 0px;
+    margin-top: 10px;
     font-weight: 100;
 }
 

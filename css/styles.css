@@ -4,6 +4,7 @@ body {
     background-color: rgba(217, 235, 235, 0.582);
     width: 600px;
     margin: 100px auto;
+    margin-top: 20px;
 }
 
 h1 {
@@ -40,5 +41,7 @@ p {
 
 img {
     border-bottom: 3px solid black;
+    width: 100%;
+    height: auto;
     margin-bottom: 0px;
 }
